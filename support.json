@@ -74,5 +74,17 @@
                 }
             ]
         }
+    ],
+    "traditional": [
+        {
+            "methodId": "card",
+            "label": "Debit/Credit Card",
+            "url": "https://buy.stripe.com/7sYbJ14J0d4G6qS4ZT77O00"
+        },
+        {
+            "methodId": "wallets",
+            "label": "Apple/Google Pay",
+            "url": "https://buy.stripe.com/7sYbJ14J0d4G6qS4ZT77O00"
+        }
     ]
 }
